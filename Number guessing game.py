@@ -24,3 +24,4 @@ while not found:
         
 print("You Got It!")
 found = False
+print("Thanks for playing!")

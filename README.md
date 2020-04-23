@@ -1,5 +1,10 @@
-# Word-Guess-Game
+# Number-Guess-Game
 
-This is my first GitHub commit. 
+## General Notes:
+- This is my first Python GitHub commit
+- You will need to run this application in a Python 3 compiler / IDE.
 
-This Repository will contain a very basic game I coded in Python. I coded this as part of a Python fundamentals course on Udemy. The object of the game is to guess the correct number between 1 - 100. 
+## Description:
+- This application is a basic game I coded in Python 3. 
+- This was developed as part of a Python fundamentals course on Udemy. 
+- The object of the game is to guess the correct number between 1 - 100. 
